@@ -1,7 +1,7 @@
 # Hi there, I'm Rehandra! 👋
 
 ## 🚀 About Me
-I'm a **Computer Science student** at **Universitas Riau** with a deep passion for **digital automation, web development, data analysis, and cyber security**. I love learning new technologies and working on exciting projects. Let's grow together! 🌻
+I'm a **Computer Science student** at **Universitas Riau** with a deep passion for **digital automation, web development, graphic design, data analysis, and cyber security**. I love learning new technologies and working on exciting projects. Let's grow together! 🌻
 
 ## 💡 Skills & Technologies
 
