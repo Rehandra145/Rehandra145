@@ -10,6 +10,8 @@ I'm a **Computer Science student** at **Universitas Riau** with a deep passion f
 - Java ☕
 - C++ 🔗
 - Java Swing 🎛️
+- Golang ⚡
+- Php 💲
 
 ### Web Development:
 - Laravel ⚡
