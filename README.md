@@ -23,37 +23,9 @@
 
 ## 👾 `whoami`
 
-```bash
-rehandra@edge:~$ neofetch
-
-     ┌─┬─┬─┬─┬─┐      rehandra@edge
-   ──┤ ░░░░░░░ ├──    ─────────────
-   ──┤  ESP32  ├──    Role ..... Computer Science Student
-   ──┤ ░░░░░░░ ├──    Uni ...... Universitas Riau
-   ──┤ ░░░░░░░ ├──    Focus .... Embedded · Robotics · Edge AI
-     └─┴─┴─┴─┴─┘      Stack .... Python · C/C++ · ESP32 · RPi
-                      Uptime ... since "Hello, World!"
-                      Fuel ..... coffee + curiosity + compile errors ☕
-
-rehandra@edge:~$ cat now.txt
-> squeezing AI models into resource-constrained devices
-> building: Robot Voice Command NLU Pipeline (comand-inst)
-
-rehandra@edge:~$ ls ~/skills/
-embedded/  robotics/  edge-ai/  ml-nlp/  web/
-
-rehandra@edge:~$ cat philosophy.md
-Learn by building. Understand how things work under the hood.
-
-rehandra@edge:~$ sudo make robot
-[sudo] password for rehandra: ********
-[ 25%] Compiling ideas...
-[ 50%] Flashing firmware...
-[ 75%] Quantizing model to INT8...
-[100%] Done. It works. (Don't touch it.)
-
-rehandra@edge:~$ _
-```
+<div align="center">
+  <img src="assets/terminal.svg" alt="rehandra@edge terminal: neofetch, now.txt, skills and a build sequence" width="100%" />
+</div>
 
 > I enjoy experimenting with low-level hardware, developing intelligent applications, and optimizing AI models to run smoothly where compute resources are tight.
 
