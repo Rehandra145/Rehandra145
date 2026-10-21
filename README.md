@@ -24,19 +24,35 @@
 ## 👾 `whoami`
 
 ```bash
-$ whoami
-rehandra
+rehandra@edge:~$ neofetch
 
-$ cat profile.json
-{
-  "role"      : "Computer Science Student @ Universitas Riau",
-  "focus"     : ["Embedded Systems", "Robotics", "Edge AI", "ML", "Software Engineering"],
-  "philosophy": "Learn by building. Understand how things work under the hood.",
-  "currently" : "Squeezing AI models into resource-constrained devices",
-  "fuel"      : "coffee + curiosity + compile errors ☕"
-}
+     ┌─┬─┬─┬─┬─┐      rehandra@edge
+   ──┤ ░░░░░░░ ├──    ─────────────
+   ──┤  ESP32  ├──    Role ..... Computer Science Student
+   ──┤ ░░░░░░░ ├──    Uni ...... Universitas Riau
+   ──┤ ░░░░░░░ ├──    Focus .... Embedded · Robotics · Edge AI
+     └─┴─┴─┴─┴─┘      Stack .... Python · C/C++ · ESP32 · RPi
+                      Uptime ... since "Hello, World!"
+                      Fuel ..... coffee + curiosity + compile errors ☕
 
-$ _
+rehandra@edge:~$ cat now.txt
+> squeezing AI models into resource-constrained devices
+> building: Robot Voice Command NLU Pipeline (comand-inst)
+
+rehandra@edge:~$ ls ~/skills/
+embedded/  robotics/  edge-ai/  ml-nlp/  web/
+
+rehandra@edge:~$ cat philosophy.md
+Learn by building. Understand how things work under the hood.
+
+rehandra@edge:~$ sudo make robot
+[sudo] password for rehandra: ********
+[ 25%] Compiling ideas...
+[ 50%] Flashing firmware...
+[ 75%] Quantizing model to INT8...
+[100%] Done. It works. (Don't touch it.)
+
+rehandra@edge:~$ _
 ```
 
 > I enjoy experimenting with low-level hardware, developing intelligent applications, and optimizing AI models to run smoothly where compute resources are tight.
