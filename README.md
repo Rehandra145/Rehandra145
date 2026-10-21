@@ -1,124 +1,230 @@
-# Hi there, I'm Rehandra! 👋
+<div align="center">
 
-### Computer Science Student | Robotics | Embedded Systems | Edge AI
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=230&section=header&text=Rehandra&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Embedded%20Systems%20%E2%80%A2%20Robotics%20%E2%80%A2%20Edge%20AI&descSize=20&descAlignY=58" width="100%" />
 
-I'm a Computer Science student at **Universitas Riau**, passionate about building intelligent systems that bridge software, hardware, and AI.
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=00E5FF&center=true&vCenter=true&width=700&lines=Building+intelligent+systems+%F0%9F%A7%A0;Where+software+meets+hardware+%E2%9A%99%EF%B8%8F;Optimizing+AI+for+tiny+devices+%E2%9A%A1;Learning+by+building%2C+breaking%2C+repeating+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
 
-My interests revolve around **Embedded Systems, Robotics, Edge AI, Machine Learning, and Software Engineering**. I enjoy experimenting with low-level hardware, developing intelligent applications, and optimizing AI models to run on resource-constrained devices.
+<br/>
 
-I believe in learning by building, experimenting, and understanding how things work under the hood. 🚀
+![Profile Views](https://komarev.com/ghpvc/?username=Rehandra145&label=Profile%20Views&color=00b8d4&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/Rehandra145?style=for-the-badge&logo=github&color=203a43)
+![Status](https://img.shields.io/badge/status-building_something-00e5a0?style=for-the-badge)
+
+</div>
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## 👾 `whoami`
 
-### 💻 Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+```bash
+$ whoami
+rehandra
 
-### 🤖 Embedded Systems & Robotics
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![ROS 2](https://img.shields.io/badge/ROS%202-22314E?style=for-the-badge&logo=ros&logoColor=white)
+$ cat profile.json
+{
+  "role"      : "Computer Science Student @ Universitas Riau",
+  "focus"     : ["Embedded Systems", "Robotics", "Edge AI", "ML", "Software Engineering"],
+  "philosophy": "Learn by building. Understand how things work under the hood.",
+  "currently" : "Squeezing AI models into resource-constrained devices",
+  "fuel"      : "coffee + curiosity + compile errors ☕"
+}
 
-- Microcontroller programming and hardware interfacing
-- Sensor integration, motor control, and PWM
-- I²C communication and peripheral integration
-- Mobile robotics and holonomic drive systems
-- Embedded Linux and edge-device deployment
+$ _
+```
 
-### 🧠 AI, Machine Learning & Edge Computing
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![ONNX](https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white)
+> I enjoy experimenting with low-level hardware, developing intelligent applications, and optimizing AI models to run where resources are tight.
 
-- Machine Learning and NLP
-- Text classification with TF-IDF and SVM
-- Speech recognition and voice-command systems
-- Local LLM inference and model quantization
-- Retrieval-Augmented Generation (RAG)
-- Edge AI optimization for resource-constrained devices
-- Model benchmarking and inference latency analysis
+---
 
-### 🌐 Web Development
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+## 🛠️ Tech Stack
 
-- Full-stack web development
-- RESTful application development
-- Responsive user interfaces
-- Database integration with SQL and NoSQL
+<div align="center">
 
-### ⚙️ Tools & Development Environment
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+### 💻 Languages
+<img src="https://skillicons.dev/icons?i=py,c,cpp,java,cs,js,php,mysql&theme=dark" />
+
+### 🤖 Embedded & Robotics
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi,linux,ros&theme=dark" />
+<br/>
+<img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
+
+### 🧠 AI / ML
+<img src="https://skillicons.dev/icons?i=pytorch,sklearn&theme=dark" />
+<img src="https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white" />
+
+### 🌐 Web
+<img src="https://skillicons.dev/icons?i=laravel,react,nextjs,tailwind,html,css&theme=dark" />
+
+### ⚙️ Tools
+<img src="https://skillicons.dev/icons?i=git,github,vscode,unity,figma,docker&theme=dark" />
+
+</div>
+
+<details>
+<summary><b>📖 Lihat detail kemampuan</b></summary>
+<br/>
+
+| Area | What I do |
+|------|-----------|
+| 🔌 **Embedded** | Microcontroller programming, hardware interfacing, sensors, motor control & PWM, I²C |
+| 🤖 **Robotics** | Mobile robotics, holonomic drive systems, embedded Linux, edge-device deployment |
+| 🧠 **AI / ML** | NLP, TF-IDF + SVM text classification, speech recognition, voice-command systems |
+| ⚡ **Edge AI** | Local LLM inference, model quantization, RAG, benchmarking & latency analysis |
+| 🌐 **Web** | Full-stack, RESTful apps, responsive UI, SQL & NoSQL integration |
 
 Also familiar with Docker, Linux environments, Arduino IDE, Jupyter Notebook, and Adobe creative tools.
+
+</details>
 
 ---
 
 ## 🚀 Featured Projects & Research
 
 ### 🗣️ Edge AI Voice Assistant
-Developing a local voice-assistant pipeline for intelligent robotic applications using resource-constrained hardware.
+Local voice-assistant pipeline for intelligent robotic applications on resource-constrained hardware.
 
-- Speech recognition with ONNX-based inference
-- Local LLM experimentation and quantization
-- Text-to-speech and voice interaction
-- Exploring RAG and inference optimization on Raspberry Pi
+```mermaid
+flowchart LR
+    A[🎤 Mic] --> B[Speech Recognition<br/>ONNX]
+    B --> C[Local LLM<br/>Quantized + RAG]
+    C --> D[🔊 Text-to-Speech]
+    D --> E[🤖 Robot Response]
+    style A fill:#203a43,color:#fff,stroke:#00e5ff
+    style B fill:#203a43,color:#fff,stroke:#00e5ff
+    style C fill:#203a43,color:#fff,stroke:#00e5ff
+    style D fill:#203a43,color:#fff,stroke:#00e5ff
+    style E fill:#0f2027,color:#00e5a0,stroke:#00e5a0
+```
+
+`ONNX` · `Quantization` · `RAG` · `Raspberry Pi` · `TTS`
+
+---
 
 ### 🤖 Mobile Robotics & Embedded Control
-Working with ESP32-based robotic platforms and motor-control systems.
+ESP32-based robotic platforms and motor-control systems.
 
-- Multi-microcontroller architectures
-- Sensor integration and hardware communication
-- Motor drivers, PWM control, and holonomic movement
-- Exploring control strategies and real-time task performance
+- 🧩 Multi-microcontroller architectures
+- 📡 Sensor integration and hardware communication
+- ⚙️ Motor drivers, PWM control, and holonomic movement
+- ⏱️ Control strategies and real-time task performance
+
+`ESP32` · `PWM` · `I²C` · `Holonomic Drive`
+
+---
 
 ### 📊 Machine Learning & NLP
-Experimenting with machine-learning pipelines for text classification.
+Machine-learning pipelines for text classification.
 
-- Data collection and preprocessing
-- TF-IDF feature extraction
-- SVM and Naive Bayes classification
-- Model evaluation, generalization, and overfitting analysis
+```text
+Data Collection → Preprocessing → TF-IDF → SVM / Naive Bayes → Evaluation
+                                                                    ↓
+                                              Generalization & Overfitting Analysis
+```
+
+`scikit-learn` · `TF-IDF` · `SVM` · `Naive Bayes`
+
+---
 
 ### 📱 EnerGo — Mobile AR Project
-Exploring augmented reality application development using Unity, AR Foundation, and ARCore.
+Augmented reality app development with **Unity**, **AR Foundation**, and **ARCore**.
+
+`Unity` · `AR Foundation` · `ARCore`
 
 ---
 
 ## 🎯 Current Interests
 
-- Edge AI and efficient on-device inference
-- Embedded intelligence and real-time systems
-- Robotics, control systems, and autonomous navigation
-- Speech processing and human-robot interaction
-- Machine learning optimization and model quantization
-- Research and development in advanced technologies
+<div align="center">
+
+| ⚡ Edge AI | 🧠 On-device Inference | 🤖 Robotics |
+|:---:|:---:|:---:|
+| Efficient on-device inference | Model quantization & optimization | Control systems & autonomous navigation |
+
+| 🔌 Embedded Intelligence | 🗣️ Speech & HRI | 🔬 R&D |
+|:---:|:---:|:---:|
+| Real-time systems | Speech processing, human-robot interaction | Advanced technologies |
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Rehandra145&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f2027&title_color=00e5ff&icon_color=00e5a0" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rehandra145&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f2027&title_color=00e5ff" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rehandra145&theme=tokyonight&hide_border=true&background=0f2027&ring=00e5ff&fire=00e5a0&currStreakLabel=00e5ff" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rehandra145&theme=tokyo-night&hide_border=true&bg_color=0f2027&color=00e5ff&line=00e5a0&point=ffffff" width="100%" />
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<!-- Butuh GitHub Action Platane/snk, lihat catatan di bawah README ini -->
+<img src="https://raw.githubusercontent.com/Rehandra145/Rehandra145/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="100%" />
+
+</div>
 
 ---
 
 ## 📫 Connect With Me
 
-- **Instagram:** [@handeraaa](https://www.instagram.com/handeraaa)
-- **GitHub:** [@Rehandra145](https://github.com/Rehandra145)
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-Rehandra145-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rehandra145)
+[![Instagram](https://img.shields.io/badge/Instagram-@handeraaa-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/handeraaa)
+
+</div>
 
 ---
 
-*Building, breaking, learning, and optimizing — one experiment at a time.* ⚡
+<div align="center">
+
+```text
+┌──────────────────────────────────────────────┐
+│  while (alive) { build(); break(); learn(); }│
+└──────────────────────────────────────────────┘
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%" />
+
+</div>
+
+<!--
+CATATAN SETUP SNAKE:
+1. Buat file .github/workflows/snake.yml di repo Rehandra145/Rehandra145:
+
+name: Generate Snake
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+2. Jalankan workflow sekali dari tab Actions, lalu snake akan muncul.
+-->
