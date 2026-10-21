@@ -92,6 +92,59 @@ $ _
 
 ---
 
+## 🔥 Currently Building
+
+### 🤖 Robot Voice Command NLU Pipeline
+
+<a href="https://github.com/Rehandra145/comand-inst">
+  <img src="https://img.shields.io/badge/View_Repo-comand--inst-00e5ff?style=for-the-badge&logo=github&logoColor=0f2027&labelColor=0f2027" alt="comand-inst repo" />
+</a>
+<img src="https://img.shields.io/badge/Status-In_Development-00e5a0?style=for-the-badge&labelColor=0f2027" alt="In Development" />
+
+Indonesian **voice-to-command** system for a hospital service robot. Speech goes in, a validated structured command comes out, ready to be published to **ROS 2**. Everything runs offline, tuned for the Raspberry Pi 4.
+
+```mermaid
+flowchart LR
+    A[🎤 Mic<br/>16 kHz] --> B[Streaming STT<br/>Zipformer RNN-T]
+    B --> C[Intent<br/>Classification]
+    C --> D[Slot Extraction<br/>Room Parser FSM]
+    D --> E{Room<br/>Validation}
+    E -- VALID --> F[🤖 ROS 2<br/>Adapter]
+    E -- INVALID --> G[❌ Rejected]
+    style A fill:#203a43,color:#fff,stroke:#00e5ff,stroke-width:2px
+    style B fill:#203a43,color:#fff,stroke:#00e5ff,stroke-width:2px
+    style C fill:#203a43,color:#fff,stroke:#00e5ff,stroke-width:2px
+    style D fill:#203a43,color:#fff,stroke:#00e5ff,stroke-width:2px
+    style E fill:#0f2027,color:#fbbf24,stroke:#fbbf24,stroke-width:2px
+    style F fill:#0f2027,color:#00e5a0,stroke:#00e5a0,stroke-width:2px
+    style G fill:#0f2027,color:#f87171,stroke:#f87171,stroke-width:2px
+```
+
+```bash
+$ python main.py --text "tolong antar ke ruang melati"
+{
+  "intent": "NAVIGATE",
+  "slots": { "location": "ruang melati" },
+  "confidence": 1.0,
+  "status": "VALID",
+  "ros2_sent": true
+}
+```
+
+**Highlights**
+
+- 🎙️ **Streaming-native STT:** Zipformer RNN-T via Sherpa-ONNX, decoding while you speak (no wait for the full sentence like Whisper-style models)
+- 🧩 **Fuzzy matching:** Ratcliff-Obershelp similarity to survive STT slips such as `"bahwa"` → `"bawa"`
+- 🔢 **Dynamic room parser:** a grammar FSM turns `"satu nol empat"` into `104` and `"tiga ratus satu"` into `301`, with no fixed vocabulary
+- 🛡️ **Safety layer:** every destination is checked against `valid_rooms.json` (O(1) hash-set lookup) before the robot moves
+- 💬 **Multi-turn dialog:** sequential TTS ↔ STT with automatic slot filling (*"Ke ruangan berapa?"*) and no audio race conditions
+- ⚡ **Pi-ready:** INT8 quantization, TTS audio caching and pre-warming, thread priority boosting, CPU core pinning
+- 🖥️ **Interfaces:** Tkinter GUI (matte charcoal theme) + headless CLI for Ubuntu Server
+
+`Python` · `Sherpa-ONNX` · `ONNX Runtime` · `Piper VITS` · `ROS 2` · `Raspberry Pi 4` · `Tkinter` · `uv`
+
+---
+
 ## 🚀 Featured Projects & Research
 
 ### 🗣️ 1. Edge AI Voice Assistant
