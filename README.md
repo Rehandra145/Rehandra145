@@ -1,21 +1,21 @@
 <div align="center">
 
 <!-- HEADER WAVE -->
-<img src="[https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=230&section=header&text=Rehandra&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Embedded%20Systems%20%E2%80%A2%20Robotics%20%E2%80%A2%20Edge%20AI&descSize=20&descAlignY=58](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=230&section=header&text=Rehandra&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Embedded%20Systems%20%E2%80%A2%20Robotics%20%E2%80%A2%20Edge%20AI&descSize=20&descAlignY=58)" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=230&section=header&text=Rehandra&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Embedded%20Systems%20%E2%80%A2%20Robotics%20%E2%80%A2%20Edge%20AI&descSize=20&descAlignY=58" width="100%" />
 
 <!-- TYPING SVG -->
-<a href="[https://git.io/typing-svg](https://git.io/typing-svg)">
-  <img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=00E5FF&center=true&vCenter=true&width=700&lines=Building+intelligent+systems+%F0%9F%A7%A0;Where+software+meets+hardware+%E2%9A%99%EF%B8%8F;Optimizing+AI+for+tiny+devices+%E2%9A%A1;Learning+by+building%2C+breaking%2C+repeating+%F0%9F%9A%80](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=00E5FF&center=true&vCenter=true&width=700&lines=Building+intelligent+systems+%F0%9F%A7%A0;Where+software+meets+hardware+%E2%9A%99%EF%B8%8F;Optimizing+AI+for+tiny+devices+%E2%9A%A1;Learning+by+building%2C+breaking%2C+repeating+%F0%9F%9A%80)" alt="Typing SVG" />
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=00E5FF&center=true&vCenter=true&width=700&lines=Building+intelligent+systems+%F0%9F%A7%A0;Where+software+meets+hardware+%E2%9A%99%EF%B8%8F;Optimizing+AI+for+tiny+devices+%E2%9A%A1;Learning+by+building%2C+breaking%2C+repeating+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
 <!-- TOP BADGES -->
-<img src="[https://komarev.com/ghpvc/?username=Rehandra145&label=Profile%20Views&color=00e5ff&style=for-the-badge](https://komarev.com/ghpvc/?username=Rehandra145&label=Profile%20Views&color=00e5ff&style=for-the-badge)" alt="Profile Views" />
-<a href="[https://github.com/Rehandra145?tab=followers](https://github.com/Rehandra145?tab=followers)">
-  <img src="[https://img.shields.io/github/followers/Rehandra145?label=Followers&style=for-the-badge&color=00e5a0&labelColor=0f2027](https://img.shields.io/github/followers/Rehandra145?label=Followers&style=for-the-badge&color=00e5a0&labelColor=0f2027)" alt="Followers" />
+<img src="https://komarev.com/ghpvc/?username=Rehandra145&label=Profile%20Views&color=00e5ff&style=for-the-badge" alt="Profile Views" />
+<a href="https://github.com/Rehandra145?tab=followers">
+  <img src="https://img.shields.io/github/followers/Rehandra145?label=Followers&style=for-the-badge&color=00e5a0&labelColor=0f2027" alt="Followers" />
 </a>
-<img src="[https://img.shields.io/badge/Status-Building%20Edge%20AI-203a43?style=for-the-badge&logo=raspberrypi&logoColor=00e5ff](https://img.shields.io/badge/Status-Building%20Edge%20AI-203a43?style=for-the-badge&logo=raspberrypi&logoColor=00e5ff)" alt="Status" />
+<img src="https://img.shields.io/badge/Status-Building%20Edge%20AI-203a43?style=for-the-badge&logo=raspberrypi&logoColor=00e5ff" alt="Status" />
 
 </div>
 
@@ -48,27 +48,27 @@ $ _
 <div align="center">
 
 #### 💻 Languages & Databases
-<img src="[https://skillicons.dev/icons?i=py,c,cpp,java,cs,js,php,mysql&theme=dark](https://skillicons.dev/icons?i=py,c,cpp,java,cs,js,php,mysql&theme=dark)" alt="Languages" />
+<img src="https://skillicons.dev/icons?i=py,c,cpp,java,cs,js,php,mysql&theme=dark" alt="Languages" />
 
 #### 🤖 Embedded Systems & Robotics
-<img src="[https://skillicons.dev/icons?i=arduino,raspberrypi,linux,ros&theme=dark](https://skillicons.dev/icons?i=arduino,raspberrypi,linux,ros&theme=dark)" alt="Embedded & Robotics" />
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi,linux,ros&theme=dark" alt="Embedded & Robotics" />
 <br/><br/>
-<img src="[https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)" />
-<img src="[https://img.shields.io/badge/I2C%20%2F%20SPI%20%2F%20UART-0f2027?style=for-the-badge&logo=arduino&logoColor=00e5ff](https://img.shields.io/badge/I2C%20%2F%20SPI%20%2F%20UART-0f2027?style=for-the-badge&logo=arduino&logoColor=00e5ff)" />
-<img src="[https://img.shields.io/badge/PWM%20Control-0f2027?style=for-the-badge&logoColor=00e5a0](https://img.shields.io/badge/PWM%20Control-0f2027?style=for-the-badge&logoColor=00e5a0)" />
+<img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
+<img src="https://img.shields.io/badge/I2C%20%2F%20SPI%20%2F%20UART-0f2027?style=for-the-badge&logo=arduino&logoColor=00e5ff" />
+<img src="https://img.shields.io/badge/PWM%20Control-0f2027?style=for-the-badge&logoColor=00e5a0" />
 
 #### 🧠 AI / Machine Learning / Edge Inference
-<img src="[https://skillicons.dev/icons?i=pytorch,sklearn&theme=dark](https://skillicons.dev/icons?i=pytorch,sklearn&theme=dark)" alt="AI/ML" />
+<img src="https://skillicons.dev/icons?i=pytorch,sklearn&theme=dark" alt="AI/ML" />
 <br/><br/>
-<img src="[https://img.shields.io/badge/ONNX_Runtime-005CED?style=for-the-badge&logo=onnx&logoColor=white](https://img.shields.io/badge/ONNX_Runtime-005CED?style=for-the-badge&logo=onnx&logoColor=white)" />
-<img src="[https://img.shields.io/badge/Quantization-203a43?style=for-the-badge&logoColor=00e5ff](https://img.shields.io/badge/Quantization-203a43?style=for-the-badge&logoColor=00e5ff)" />
-<img src="[https://img.shields.io/badge/Local_LLM_%26_RAG-0f2027?style=for-the-badge&logoColor=00e5a0](https://img.shields.io/badge/Local_LLM_%26_RAG-0f2027?style=for-the-badge&logoColor=00e5a0)" />
+<img src="https://img.shields.io/badge/ONNX_Runtime-005CED?style=for-the-badge&logo=onnx&logoColor=white" />
+<img src="https://img.shields.io/badge/Quantization-203a43?style=for-the-badge&logoColor=00e5ff" />
+<img src="https://img.shields.io/badge/Local_LLM_%26_RAG-0f2027?style=for-the-badge&logoColor=00e5a0" />
 
 #### 🌐 Web & App Development
-<img src="[https://skillicons.dev/icons?i=laravel,react,nextjs,tailwind,html,css&theme=dark](https://skillicons.dev/icons?i=laravel,react,nextjs,tailwind,html,css&theme=dark)" alt="Web" />
+<img src="https://skillicons.dev/icons?i=laravel,react,nextjs,tailwind,html,css&theme=dark" alt="Web" />
 
 #### ⚙️ Tools & Environment
-<img src="[https://skillicons.dev/icons?i=git,github,vscode,unity,figma,docker&theme=dark](https://skillicons.dev/icons?i=git,github,vscode,unity,figma,docker&theme=dark)" alt="Tools" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,unity,figma,docker&theme=dark" alt="Tools" />
 
 </div>
 
@@ -161,16 +161,16 @@ Interactive Augmented Reality mobile application built for immersive spatial vis
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180" src="[https://github-readme-stats.vercel.app/api?username=Rehandra145&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f2027&title_color=00e5ff&icon_color=00e5a0](https://github-readme-stats.vercel.app/api?username=Rehandra145&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f2027&title_color=00e5ff&icon_color=00e5a0)" alt="GitHub Stats" />
-  <img height="180" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=Rehandra145&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f2027&title_color=00e5ff](https://github-readme-stats.vercel.app/api/top-langs/?username=Rehandra145&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f2027&title_color=00e5ff)" alt="Top Languages" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Rehandra145&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f2027&title_color=00e5ff&icon_color=00e5a0" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rehandra145&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f2027&title_color=00e5ff" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="[https://github-readme-streak-stats.herokuapp.com/?user=Rehandra145&theme=tokyonight&hide_border=true&background=0f2027&ring=00e5ff&fire=00e5a0&currStreakLabel=00e5ff](https://github-readme-streak-stats.herokuapp.com/?user=Rehandra145&theme=tokyonight&hide_border=true&background=0f2027&ring=00e5ff&fire=00e5a0&currStreakLabel=00e5ff)" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rehandra145&theme=tokyonight&hide_border=true&background=0f2027&ring=00e5ff&fire=00e5a0&currStreakLabel=00e5ff" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="[https://github-readme-activity-graph.vercel.app/graph?username=Rehandra145&theme=tokyo-night&hide_border=true&bg_color=0f2027&color=00e5ff&line=00e5a0&point=ffffff](https://github-readme-activity-graph.vercel.app/graph?username=Rehandra145&theme=tokyo-night&hide_border=true&bg_color=0f2027&color=00e5ff&line=00e5a0&point=ffffff)" width="100%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rehandra145&theme=tokyo-night&hide_border=true&bg_color=0f2027&color=00e5ff&line=00e5a0&point=ffffff" width="100%" alt="Activity Graph" />
 </div>
 
 ---
@@ -178,7 +178,7 @@ Interactive Augmented Reality mobile application built for immersive spatial vis
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="[https://raw.githubusercontent.com/Rehandra145/Rehandra145/output/github-contribution-grid-snake-dark.svg](https://raw.githubusercontent.com/Rehandra145/Rehandra145/output/github-contribution-grid-snake-dark.svg)" alt="snake animation" width="100%" />
+  <img src="https://raw.githubusercontent.com/Rehandra145/Rehandra145/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="100%" />
 </div>
 
 ---
@@ -187,15 +187,11 @@ Interactive Augmented Reality mobile application built for immersive spatial vis
 
 <div align="center">
 
-<!-- Ganti username sosial media di bawah sesuai akunmu -->
-<a href="[https://github.com/Rehandra145](https://github.com/Rehandra145)" target="_blank">
-  <img src="[https://img.shields.io/badge/GitHub-0f2027?style=for-the-badge&logo=github&logoColor=00e5ff](https://img.shields.io/badge/GitHub-0f2027?style=for-the-badge&logo=github&logoColor=00e5ff)" alt="GitHub" />
+<a href="https://github.com/Rehandra145" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-0f2027?style=for-the-badge&logo=github&logoColor=00e5ff" alt="GitHub" />
 </a>
-<a href="[https://instagram.com/](https://instagram.com/)" target="_blank">
-  <img src="[https://img.shields.io/badge/Instagram-203a43?style=for-the-badge&logo=instagram&logoColor=00e5a0](https://img.shields.io/badge/Instagram-203a43?style=for-the-badge&logo=instagram&logoColor=00e5a0)" alt="Instagram" />
-</a>
-<a href="[https://linkedin.com/in/](https://linkedin.com/in/)" target="_blank">
-  <img src="[https://img.shields.io/badge/LinkedIn-0f2027?style=for-the-badge&logo=linkedin&logoColor=00e5ff](https://img.shields.io/badge/LinkedIn-0f2027?style=for-the-badge&logo=linkedin&logoColor=00e5ff)" alt="LinkedIn" />
+<a href="https://www.instagram.com/handeraaa" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-203a43?style=for-the-badge&logo=instagram&logoColor=00e5a0" alt="Instagram" />
 </a>
 
 <br/><br/>
@@ -206,6 +202,6 @@ Interactive Augmented Reality mobile application built for immersive spatial vis
 └───────────────────────────────────────────────┘
 ```
 
-<img src="[https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer](https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer)" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%" />
 
 </div>
